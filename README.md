@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Task Management App (React + TypeScript)
 
 A modern, accessible, and high-performance Task Management Web App built with React, TypeScript, TailwindCSS, and Storybook.  
@@ -133,3 +134,7 @@ npm run storybook
 
 # 5️⃣ Build the project for production
 npm run build
+=======
+# timeline-gantt-view
+Interactive Timeline and Gantt View component built with React, TypeScript, Tailwind CSS, and Storybook.
+>>>>>>> 957e48d3c1c515a4f5a9fbc461b383c8fabca6fb
