@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Task Management App (React + TypeScript)
 
 A modern, accessible, and high-performance Task Management Web App built with React, TypeScript, TailwindCSS, and Storybook.  
