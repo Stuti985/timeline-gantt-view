@@ -118,22 +118,21 @@ Installation & Setup
 
 Follow these steps to run the project locally:
 
-```bash
 Clone the repository
-git clone https://github.com/your-username/timeline-component.git
+git clone https://github.com/Stuti985/timeline-component.git
 
-# 2️⃣ Navigate to the project directory
+Navigate to the project directory
 cd timeline-component
 
-# 3️⃣ Install dependencies
+Install dependencies
 npm install
 
-# 4️⃣ Start Storybook for development
+Start Storybook for development
 npm run storybook
 
-# 5️⃣ Build the project for production
+Build the project for production
 npm run build
-=======
+
 # timeline-gantt-view
 Interactive Timeline and Gantt View component built with React, TypeScript, Tailwind CSS, and Storybook.
->>>>>>> 957e48d3c1c515a4f5a9fbc461b383c8fabca6fb
+
