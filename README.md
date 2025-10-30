@@ -17,7 +17,7 @@ UI / UX
 - Responsive layout for mobile, tablet, and desktop
 - Smooth animations, hover & focus feedback
 - Clean and consistent color scheme
-- Dark mode toggle 🌙 / ☀️
+- Dark mode toggle
 
 Accessibility
 - Fully keyboard navigable
