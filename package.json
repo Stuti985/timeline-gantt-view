@@ -1,0 +1,67 @@
+{
+  "name": "timeline-gantt-view",
+  "version": "1.0.0",
+  "description": "A reusable Timeline/Gantt View component built with React, TypeScript, Tailwind CSS, and Storybook.",
+  "author": "Stuti Tripathi",
+  "license": "ISC",
+  "homepage": "https://stuti985.github.io/timeline-gantt-view",
+  "main": "next.config.js",
+
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint || true",
+    "storybook": "storybook dev -p 6006",
+    "test:accessibility": "node accessibility-test.js",
+    "build-storybook": "storybook build",
+    "deploy-storybook": "gh-pages -d storybook-static",
+    "build-css": "tailwindcss -i ./src/style.css -o ./dist/output.css --watch"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "storybook",
+    "timeline",
+    "gantt",
+    "component",
+    "tailwindcss"
+  ],
+  
+  "dependencies": {
+    "@dnd-kit/core": "^6.3.1",
+    "@emotion/is-prop-valid": "^1.4.0",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "framer-motion": "^12.23.24",
+    "lodash.throttle": "^4.1.1",
+    "next": "^16.0.0",
+    "node-fetch": "^3.3.2",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "zustand": "^5.0.8"
+  },
+  "devDependencies": {
+    "@axe-core/puppeteer": "^4.11.0",
+    "@storybook/addon-a11y": "^8.6.14",
+    "@storybook/addon-essentials": "^8.6.14",
+    "@storybook/addon-interactions": "^8.6.14",
+    "@storybook/react-webpack5": "^8.6.14",
+    "@storybook/test": "^8.6.14",
+    "@tailwindcss/postcss": "^4.1.16",
+    "@types/lodash.throttle": "^4.1.9",
+    "@types/node": "^20.4.0",
+    "@types/react": "^18.3.26",
+    "@types/react-dom": "^18.3.7",
+    "autoprefixer": "^10.4.21",
+    "axe-core": "^4.11.0",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.5.6",
+    "puppeteer": "^24.26.1",
+    "storybook": "^8.6.14",
+    "storybook-dark-mode": "^4.0.2",
+    "tailwindcss": "^4.1.16",
+    "ts-loader": "^9.5.4",
+    "typescript": "^5.9.3"
+  }
+}
