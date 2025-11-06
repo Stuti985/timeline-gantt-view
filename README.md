@@ -119,7 +119,7 @@ Installation & Setup
 Follow these steps to run the project locally:
 
 - Clone the repository
-  git clone https://github.com/Stuti985/timeline-component.git
+  git clone https://github.com/Stuti985/timeline-gantt-view.git
 
 - Navigate to the project directory
   cd timeline-component
