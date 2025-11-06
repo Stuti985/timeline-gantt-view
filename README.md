@@ -122,7 +122,7 @@ Follow these steps to run the project locally:
   git clone https://github.com/Stuti985/timeline-gantt-view.git
 
 - Navigate to the project directory
-  cd timeline-component
+  cd Timeline Gantt View
 
 - Install dependencies
   npm install
